@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "userId": "8393020548",
+      "username": "SWEETS_MD",
+      "firstName": "𖥕SWEETS_MD 卐 PNP |#jenny | JK4",
+      "registeredAt": "2026-07-18T11:13:18.302Z",
+      "lastActive": "2026-07-18T11:13:18.302Z",
+      "points": 0,
+      "isAdmin": false,
+      "isMuted": false,
+      "warns": 0
+    }
+  ],
+  "groups": [],
+  "muteLogs": [],
+  "backups": [],
+  "admins": [],
+  "filters": {},
+  "settings": {
+    "antiToxic": false,
+    "antiLink": false,
+    "isMaintenance": false,
+    "maintenanceMessage": "🔧 Bot sedang dalam perawatan. Mohon tunggu beberapa saat!"
+  }
+}
