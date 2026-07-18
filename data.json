@@ -30,7 +30,7 @@
   "filters": {},
   "settings": {
     "antiToxic": false,
-    "antiLink": true,
+    "antiLink": false,
     "isMaintenance": false,
     "maintenanceMessage": "🔧 Bot sedang dalam perawatan. Mohon tunggu beberapa saat!"
   }
