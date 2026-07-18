@@ -21,6 +21,17 @@
       "isAdmin": false,
       "isMuted": false,
       "warns": 0
+    },
+    {
+      "userId": "5784711651",
+      "username": "ib_jokowi",
+      "firstName": "Manusia biasa",
+      "registeredAt": "2026-07-18T11:25:08.384Z",
+      "lastActive": "2026-07-18T11:25:08.384Z",
+      "points": 0,
+      "isAdmin": false,
+      "isMuted": false,
+      "warns": 0
     }
   ],
   "groups": [],
